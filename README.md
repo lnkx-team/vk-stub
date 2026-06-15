@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lnkx-team/vk-stub-standoff/releases/download/v1.0/vk_stub.apk">
+  <a href="https://github.com/lnkx-team/vk-stub/releases/download/v1/vk_stub.apk">
     <img src="https://img.shields.io/badge/📥_СКАЧАТЬ_APK-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Скачать APK">
   </a>
 </p>
